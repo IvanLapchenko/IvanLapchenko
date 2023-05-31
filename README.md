@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [App for managing your time(link to backend api)](https://github.com/IvanLapchenko/app-calendar)
 
-- 🌱 I’m currently learning **Kubernetes, Django, Docker, Go**
+- 🌱 I’m currently learning **Django, Go**
 
-- 💬 Ask me about **Linux, Flask, Angular, SQL**
+- 💬 Ask me about **Linux, Flask, SQL, Docker, Kubernetes**
 
 - 📫 How to reach me **lapchenko.vanya@gmail.com**
 
