@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17051
-Fork on GitHub
-4873
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ivan Lapchenko</h1>
 <h3 align="center">Full-stack/Cloud-Native engineer and teacher from Ukraine</h3>
 
