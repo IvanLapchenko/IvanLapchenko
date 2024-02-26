@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Lapchenko</h1>
 <h3 align="center">Full-stack/Cloud-Native engineer and teacher from Ukraine</h3>
 
-- 🔭 I’m currently working on [cloudreef](https://github.com/advantiss/cloudreef)
+- 🌱 I’m currently learning **web application architecture, cloud platforms management**
 
-- 🌱 I’m currently learning **web application architecture, cloud platforms integration**
-
-- 💬 Ask me about **Linux, Django, Flask, SQL, Docker, K8s**
+- 💬 Ask me about **Linux, Web-Development SQL, Docker, K8s, Cloud Providers**
 
 - 📫 How to reach me **lapchenko.vanya@gmail.com**
 
